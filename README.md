@@ -1,2 +1,5 @@
-# learning_git
+### learning_git
 For learning git shit
+
+
+### Notes :
